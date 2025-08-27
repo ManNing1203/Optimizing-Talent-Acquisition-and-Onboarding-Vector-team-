@@ -7,3 +7,5 @@ Vectorian:
 3) Keh Ban Ning
 4) Tee Onn Min
 5) Chong Ming Li
+
+remember to create .env file in project root: GITHUB_API_TOKEN= (personal access token)
