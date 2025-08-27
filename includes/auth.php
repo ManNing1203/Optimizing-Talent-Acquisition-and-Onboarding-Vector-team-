@@ -1,7 +1,6 @@
 <?php
 // Authentication functions
-require_once 'config.php';
-require_once 'db.php';
+require_once 'includes/db.php';
 
 // Check if user is logged in
 function isLoggedIn() {
