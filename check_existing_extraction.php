@@ -1,5 +1,6 @@
 <?php
-require_once 'includes/config.php';
+define('APP_INIT', true);
+require __DIR__ . '/../config/config.php';
 require_once 'includes/extracta_api.php';
 
 echo "<h1>🔍 Check Existing Extraction</h1>";
