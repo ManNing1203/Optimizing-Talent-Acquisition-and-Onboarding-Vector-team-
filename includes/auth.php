@@ -1,6 +1,6 @@
 <?php
 // Authentication functions
-require_once __DIR__ . '/db.php';
+require_once 'includes/db.php';
 
 // Check if user is logged in
 function isLoggedIn() {

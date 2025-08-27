@@ -1,8 +1,8 @@
 <?php
 // Security check - prevent direct access
-if (!defined('APP_INIT')) {
-    die('Direct access not allowed');
-}
+// if (!defined('APP_INIT')) {
+//     die('Direct access not allowed');
+// }
 
 // Database configuration
 define('DB_HOST', 'localhost');
